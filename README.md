@@ -1,1 +1,1 @@
-# bizapps-ph.github.io
+# bizappsph.github.io
